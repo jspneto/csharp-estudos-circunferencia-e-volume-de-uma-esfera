@@ -27,6 +27,7 @@ Além disso, o programa deve informar o valor de PI utilizado nos cálculos, exi
 
 ```bash
 |- CircunferenciaVolumeEsfera
+   |- Calculadora.cs
    |- CircunferenciaVolumeEsfera.csproj
    |- CircunferenciaVolumeEsfera.sln
    |- Program.cs
