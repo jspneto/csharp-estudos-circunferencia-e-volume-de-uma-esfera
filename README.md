@@ -36,8 +36,10 @@ Além disso, o programa deve informar o valor de PI utilizado nos cálculos, exi
 
 ## Evolução do Projeto (Tags)
 
-**lista de links para as tags do projeto**
+- [**v0.1**][1] — Métodos estáticos na classe Program
 
 ## Objetivo Educacional
 
 Este projeto **não tem como foco a solução final perfeita**, mas sim o processo de aprendizado e a comparação entre abordagens diferentes para o mesmo problema.
+
+[1]: https://github.com/jspneto/csharp-estudos-circunferencia-e-volume-de-uma-esfera "v0.1"
